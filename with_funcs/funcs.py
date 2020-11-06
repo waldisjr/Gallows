@@ -83,3 +83,7 @@ def main(word):
             pprint(game_number)
             print(word)
             break
+
+
+if __name__ == '__main__':
+    main('test')

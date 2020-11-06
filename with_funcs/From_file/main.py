@@ -1,5 +1,5 @@
 import random
-from funcs import main
+from with_funcs.funcs import main
 
 
 def rand_word() -> str:

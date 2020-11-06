@@ -1,4 +1,5 @@
-from funcs import main
+from with_funcs.funcs import main
+import sqlite3
 
 
 def rand_word() -> str:
